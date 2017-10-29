@@ -1,0 +1,23 @@
+page-welcome {
+     //color de fondo en la interfaz de Welcome
+     // background color in the Welcome interface
+#welcome{
+    background:color($colors, light);
+    h1{
+        font-size: 52px;
+        margin-top: 50px;
+        font-style: italic;
+        font-family: Forte;
+    }
+    
+}
+ .marginTop{
+     margin-top:150px;
+ }
+
+ .logoSumi{
+     width: 60px;
+     height: 60px;
+ }
+
+}
